@@ -9,7 +9,7 @@
     <script src="https://hypothes.is/embed.js" async></script>
     <style>
     html {
-      background: url(sofa.jpg) no-repeat center top fixed;
+      background: url(daisy.jpg) no-repeat center top fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
@@ -23,7 +23,7 @@
       font-size: 2em;
       width: 50%;
       text-align: center;
-      margin: 50% auto;
+      margin: 40% auto;
       color: white;
       text-shadow: 3px 3px 4px #777
     }
@@ -46,9 +46,9 @@
   <body>
     <main>
       <h1>Permacrunch</h1>
-      <p>A community of founders who are in the game for the long run..</p>
+      <p>A community of founders who are in the game for the long run.</p>
     </main>
-    <footer>&copy; 2020 Dr. Olav Schettler &middot; Pipinstr. 14, 53111 Bonn | <a href="mailto:info@permacrunch.com?subject=Website">Contact</a>
+    <footer>&copy; 2020 Dr. Olav Schettler &middot; Pipinstr. 14, 53111 Bonn | <a href="mailto:info@permacrunch.com?subject=Website">Contact</a> | Photo by <a href="https://unsplash.com/@guillaumedegermain">Guillaume de Germain</a>
     </footer>
   </body>
 </html>
