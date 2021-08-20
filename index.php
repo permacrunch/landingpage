@@ -45,7 +45,7 @@
   </head>
   <body>
     <main>
-      <h1>Permacrunch</h1>
+      <h1>Perma&shy;crunch</h1>
       <p>A community of founders who are in the game for the long run.</p>
     </main>
     <footer>&copy; 2020 Dr. Olav Schettler &middot; Pipinstr. 14, 53111 Bonn | <a href="mailto:info@permacrunch.com?subject=Website">Contact</a> | Photo by <a href="https://unsplash.com/@guillaumedegermain">Guillaume de Germain</a>
